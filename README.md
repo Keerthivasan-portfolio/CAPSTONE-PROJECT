@@ -1,4 +1,4 @@
-As part of an industry-sponsored capstone project, our objective was to determine the optimum placement of pin joints in a loader linkage mechanism to minimize material spillage during operation, without affecting the transmission ratio or bucket travel. 
+As part of an industry internship, our objective was to determine the optimum placement of pin joints in a loader linkage mechanism to minimize material spillage during operation, without affecting the transmission ratio or bucket travel. 
 
 We began by performing a comprehensive parametric analysis in MSC ADAMS, followed by a detailed kinematic study. To identify the best possible pin joint locations, the Sequential Quadratic Programming (SQP) algorithm was employed for optimization. 
 
